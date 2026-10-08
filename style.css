@@ -1,3 +1,7 @@
+h1 {
+  font-size: 3.6rem;
+}
+
 .main {
   margin-top: 20px;
   margin-right: 80px; 
@@ -22,9 +26,16 @@ body {
   padding: 10px;
   margin-bottom: 20px;
 }
-h5, p {
+
+h2, p {
+  margin-right: 16px;
+  margin-left: 16px;
+}
+
+h2 {
   margin-top: 20px;
-  margin-right: 20px;
-  margin-bottom: 20px;
-  margin-left: 20px;
+}
+
+p {
+  font-size: 1.2rem;
 }
