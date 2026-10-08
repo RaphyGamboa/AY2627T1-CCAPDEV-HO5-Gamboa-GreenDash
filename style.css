@@ -1,0 +1,30 @@
+.main {
+  margin-top: 20px;
+  margin-right: 80px; 
+  margin-bottom: 20px; 
+  margin-left: 80px;
+}
+
+.dashboard-header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+body {
+  background-color: #f1f4f8;
+}
+
+.chart-card {
+  background-color: #ffffff;
+  border: 1;
+  border-radius: 1.2rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  padding: 10px;
+  margin-bottom: 20px;
+}
+h5, p {
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
